@@ -1,0 +1,29 @@
+.footer h2 {
+	font-famiy  : helvetica;
+	background-color : #2373F4;
+}
+
+.footer-sections {
+	background-color: #2373F4;
+
+}
+
+.footer-sections h3 {
+	font-family : helvetica;
+}
+
+
+.footer-sections p {
+	font-family : helvetica;
+}
+
+
+
+.footer-bottom {
+	background-color : #2373F4;
+}
+
+
+.footer-bottom p {
+	font-family : helvetica;
+}

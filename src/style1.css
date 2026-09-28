@@ -1,0 +1,27 @@
+.page1 {
+		height : 300px;
+		/*width : 900px;*/
+		background-color : azure;
+		display : flex;
+		border-radius : 0px;
+		background-image: url(./);	
+}
+
+
+.page1 h2{
+	font-family : helvetica;
+	margin : 0;
+}
+
+
+.page1 .container1 {
+	height:250px;
+	width : 300px;
+	background-color : red;
+	border-radius : 10px;
+	display : flex;
+	margin-left : 10px;
+	margin-top : 10px;
+}
+
+

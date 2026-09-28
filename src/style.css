@@ -1,0 +1,106 @@
+body {
+	background-color : grey;
+	margin : 0;
+
+}
+
+
+.navbar {
+	background-color : #030164;
+	display : flex;
+	justify-content : space-between;
+	padding : 15px 30px;
+	align-items : center;
+	height : 30px;
+	gap : 5px;
+
+}
+
+
+.navbar h2 {
+	font-family : helvetica;
+	color : orange;
+}
+
+.navbar nav {
+	color : black;
+	font-family : helvetica;
+}
+
+
+.navbar ul {
+	display : flex;
+	gap : 10px;
+}
+
+
+.navbar li {
+	list-style : none;
+	color : orange;
+}
+
+
+
+.navbar input{
+	height :40px;
+	width : 500px;
+	border-radius : 2px;
+	border : none;	
+}
+
+
+
+.navbar button {
+	height : 40px;
+	width : 100px;
+	background-color : #F2A900;
+	border : none;
+	border-radius : 3px;
+	font-family : helvetica;
+	font-size : 20px;
+}
+
+
+.navbar input::placeholder {
+	font-family : helvetica;
+	font-size : 20px;
+
+
+}
+
+
+
+.navbar2 {
+	height : 40px;
+	background-color : #363199;
+	color : white;
+	margin : 0;
+}
+
+
+.navbar2 body {
+	margin : 0;
+}
+
+.navbar2 ul {
+	display : flex;
+	justify-content: flex-start;
+	align-items : center;
+	gap : 20px;
+	font-family : helvetica;
+	list-style : none;
+	color : white;
+	margin : 0;
+}
+
+.test {
+	height : 100px;
+	width : 100px;
+	background-color : orange;
+	color : black;
+	font-family : helvetica;
+	display : flex;
+	justify-content : center;
+	align-items : center;
+}
+
