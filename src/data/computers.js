@@ -20,6 +20,8 @@ export const computers = [{
 },
 
 
+
+
 {
 	"id" : "3",
 	"product" :  "computer",
@@ -27,6 +29,14 @@ export const computers = [{
 	"category" ; "",
 	"title" : "",
 	"company" : ""
+}, 
+
+{
+  "company" : "",
+  "id" : "4",
+  
+
+
 }
 
 
