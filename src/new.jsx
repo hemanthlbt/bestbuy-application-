@@ -2,7 +2,7 @@ import {useState} from 'react'
 
 
 function New() {
-const [number,setNumber] = useState(0);
+const [number,setNumber] = useState(100);
 
 return(
 <>

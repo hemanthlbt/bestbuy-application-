@@ -3,6 +3,8 @@ import "./style.css"
 import "./style1.css"
 import "./footer.css"
 import New from './new.jsx'
+import Test from './testcomponent.jsx'
+import Big from './compo.jsx'
 
 function App() {
   const[count,setCount] =useState(0);
@@ -79,6 +81,10 @@ return (
 
 
   <New/>
+  <Test/>
+  <Big/>
+
+
 
 
 

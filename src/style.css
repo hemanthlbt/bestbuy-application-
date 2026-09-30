@@ -104,3 +104,65 @@ body {
 	align-items : center;
 }
 
+
+.test1 {
+	height : 100px;
+	width : 100px;
+	background-color : green;
+	margin : 0;
+	font-family : helvetica;
+	display : flex;
+	justify-content : center;
+	align-items : center;
+	color : white;
+	border-top-right-radius : 30px;
+	border-bottom-right-radius : 30px;	
+}
+
+
+.group{
+	height : 50px;
+	width : 190px;
+	background-color : black;
+	display : flex;
+	;
+}
+
+
+.group .plus {
+	height : 50px;
+	width : 50px;
+	background-color : white;
+}
+
+
+.group button {
+	height : 50px;
+	width : 50px;
+	border-radius  : none;
+}
+
+
+
+.group .minus {
+	height : 50px;
+	width : 50px;
+	background-color : white;
+}
+
+
+.group .display {
+	height : 50px;
+	width : 90px;
+	background-color : azure;
+	display : flex;
+	justify-content : center;
+	align-items : center;
+	font-family  : helvetica;
+}
+
+
+
+
+
+
