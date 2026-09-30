@@ -6,6 +6,7 @@ import New from './new.jsx'
 import Test from './testcomponent.jsx'
 import Big from './compo.jsx'
 import Cart from './cart.jsx'
+import './buttons.css'
 
 
 
@@ -67,13 +68,21 @@ return (
 <div className="page1">
 
 <div className="container1">
-<h2>  No cost EMI. Plus Instant cashBack   </h2>
+<h2>  The Iphone 18Pro   </h2>
+{/*button div*/}
+
+
 </div>
 
 
 
+
+
+
+
+
 <div className="container2">
-<h1>  con2   </h1>
+<h1>  SONY BRAVIA   </h1>
 </div>
 
 
@@ -88,7 +97,6 @@ return (
 <div className="container5">
 <h1>  con3   </h1>
 </div>
-
 
 
 </div>
