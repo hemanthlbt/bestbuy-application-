@@ -9,7 +9,7 @@ function Big() {
 
 	<div className="group">
 		<div className="plus">
-			<button> + </button>
+			<button onClick={()=>setAdd(add+1)}> + </button>
 		</div>
 
 			<div className="display">
@@ -17,7 +17,7 @@ function Big() {
   			</div>
 
 			<div className="minus">
-				<button> - </button>
+				<button onClick={()=>setAdd(add-1)}> - </button>
 			</div>
 
 
@@ -26,10 +26,10 @@ function Big() {
 
 </>
 
-
-
 		)
 }
+
+
 
 export default Big
 

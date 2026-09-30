@@ -5,6 +5,9 @@ import "./footer.css"
 import New from './new.jsx'
 import Test from './testcomponent.jsx'
 import Big from './compo.jsx'
+import Cart from './cart.jsx'
+
+
 
 function App() {
   const[count,setCount] =useState(0);
@@ -20,6 +23,7 @@ return (
 <input  type="text"  placeholder="Search best products here..." />
 {/*<button  search />*/}
 <button> search </button>
+<Cart/>
 
 
         <nav>
@@ -77,12 +81,25 @@ return (
 <h1>  con3   </h1>
 </div>
 
+<div className="container4">
+<h1>  con3   </h1>
+</div>
+
+<div className="container5">
+<h1>  con3   </h1>
+</div>
+
+
+
 </div>
 
 
   <New/>
   <Test/>
   <Big/>
+
+
+
 
 
 

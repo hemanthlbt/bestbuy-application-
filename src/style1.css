@@ -1,7 +1,7 @@
 .page1 {
-		height : 300px;
+		height : 270px;
 		/*width : 900px;*/
-		background-color : azure;
+		background-color : #2D7495;
 		display : flex;
 		border-radius : 0px;
 		background-image: url(./);	
@@ -17,11 +17,58 @@
 .page1 .container1 {
 	height:250px;
 	width : 300px;
-	background-color : red;
+	background-color : grey;
 	border-radius : 10px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;
+}
+
+
+.page1 .container2 {
+	height:250px;
+	width : 300px;
+	background-color : grey;
+	border-radius : 10px;
+	display : flex;
+	margin-left : 10px;
+	margin-top : 10px;
+	font-family : helvetica;
+}
+
+
+.page1 .container3 {
+	height:250px;
+	width : 300px;
+	background-color : grey;
+	border-radius : 10px;
+	display : flex;
+	margin-left : 10px;
+	margin-top : 10px;
+	font-family : helvetica;
+}
+
+.page1 .container4 {
+	height:250px;
+	width : 300px;
+	background-color : grey;
+	border-radius : 10px;
+	display : flex;
+	margin-left : 10px;
+	margin-top : 10px;
+	font-family : helvetica;
+}
+
+
+.page1 .container5 {
+	height:250px;
+	width : 300px;
+	background-color : grey;
+	border-radius : 10px;
+	display : flex;
+	margin-left : 10px;
+	margin-top : 10px;
+	font-family : helvetica;
 }
 
 
