@@ -21,7 +21,7 @@
 	height:250px;
 	width : 300px;
 	background-color : grey;
-	border-radius : 10px;
+	border-radius : 5px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;
@@ -41,7 +41,7 @@
 	height:250px;
 	width : 300px;
 	background-color : grey;
-	border-radius : 10px;
+	border-radius : 5px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;
@@ -56,18 +56,22 @@
 	height:250px;
 	width : 300px;
 	background-color : grey;
-	border-radius : 10px;
+	border-radius : 5px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;
+	/*padding-top : 1px;*/
 	font-family : helvetica;
+	background-image : url('ps5.png');
+	background-size: cover;
+
 }
 
 .page1 .container4 {
 	height:250px;
 	width : 300px;
 	background-color : grey;
-	border-radius : 10px;
+	border-radius : 5px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;
@@ -79,7 +83,7 @@
 	height:250px;
 	width : 300px;
 	background-color : grey;
-	border-radius : 10px;
+	border-radius : 5px;
 	display : flex;
 	margin-left : 10px;
 	margin-top : 10px;

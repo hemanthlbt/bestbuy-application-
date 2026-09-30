@@ -70,24 +70,15 @@ return (
 <div className="container1">
 <h2>  The Iphone 18Pro   </h2>
 {/*button div*/}
-
-
 </div>
 
-
-
-
-
-
-
-
 <div className="container2">
-<h1>  SONY BRAVIA   </h1>
+<h1>  SONY BRAVIA TV  </h1>
 </div>
 
 
 <div className="container3">
-<h1>  con3   </h1>
+<h1>  Play station 5   </h1>
 </div>
 
 <div className="container4">
